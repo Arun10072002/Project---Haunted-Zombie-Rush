@@ -7,5 +7,5 @@ This game is just like the flappy bird. If you hit the obastacle(in this case, a
 -Press Esc to quit the game.
 
 # Disclaimer:
-The Assets in the game which includes the 3D models, Sound and textures belong to shop.bitgem3d.com.
+The Assets in the game which includes the 3D models, Sound and textures belongs to shop.bitgem3d.com.
 The game is made just for Educational purpose only, with no intention of publishing the game for monetization.
